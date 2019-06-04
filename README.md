@@ -2,6 +2,8 @@
 Make it virus malicious with termux :')
 
 
+This is the script
+
 $pkg install git
 $pkg install python2
 $pkg install ruby
